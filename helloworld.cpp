@@ -25,7 +25,7 @@ int main(void) {
     fout << strArrays[i] << endl;
   }
 
-  // int age = 16;
+  // int age = 1;
   // bool male = true;
   // char initial = 'M';
   // double height = 54.9;
